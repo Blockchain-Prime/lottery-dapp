@@ -1,0 +1,1 @@
+.how-to-play{display:grid;grid-template-columns:1fr;gap:4rem;padding-top:4rem}.card__how-to-play{min-height:auto;padding-top:3.5rem}@media (min-width: 768px){.how-to-play{grid-template-columns:1fr}}@media (min-width: 992px){.how-to-play{grid-template-columns:repeat(2,1fr);gap:5rem 3rem}}@media (min-width: 1200px){.how-to-play{grid-template-columns:repeat(3,1fr)}}
